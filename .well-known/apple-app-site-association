@@ -4,7 +4,9 @@
         "details": [
             {
                 "appID": "HA42YQCLU6.it.reply.timmusic.test",
-                "paths": [ "*"]
+                "paths": [
+                    "*"
+                ]
             }
         ]
     }
