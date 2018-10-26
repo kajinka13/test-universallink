@@ -3,10 +3,6 @@
         "apps": [],
         "details": [
             {
-                "appID": "2K5P25QPE2.it.telecomitalia.cubomusica",
-                "paths": [ "/track/*", "/release/*" , "/artist/*" , "/playlist/*"]
-            },
-            {
                 "appID": "HA42YQCLU6.it.reply.timmusic.test",
                 "paths": [ "*"]
             }
